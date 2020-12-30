@@ -14,11 +14,11 @@ int main()
 	}
 	if(xsum==0&&ysum==0&&zsum==0)
 	{
-		cout<<"yes";
+		cout<<"YES";
 	}
 	else
 	{
-		cout<<"no";
+		cout<<"NO";
 	}
 	
 	return 0;
