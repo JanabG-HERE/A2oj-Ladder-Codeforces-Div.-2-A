@@ -1,4 +1,4 @@
-//By cp_days, contest: Codeforces Round #197 (Div. 2), problem: (A) Helpful Maths, Accepted, #, Copy
+//By cp_days, contest: Codeforces Round #197 (Div. 2), problem: (A) Helpful Maths, Accepted, #, 
 #include <bits/stdc++.h>
 #include <string>
 using namespace std;
