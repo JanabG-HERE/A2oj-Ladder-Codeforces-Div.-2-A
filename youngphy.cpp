@@ -1,3 +1,4 @@
+//By cp_days, contest: Codeforces Beta Round #63 (Div. 2), problem: (A) Young Physicist, Accepted,
 #include <bits/stdc++.h>
 using namespace std;
 
