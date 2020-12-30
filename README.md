@@ -9,7 +9,8 @@ For strong Resume I thing main focuses would be-:
 1.TECHNICAL SKILLS   2.ONLINE PRESENCE (CODEFORCES / CODECHEF PROFILES)  3.STRONG PROJECTS IN NEW TECHNOLOGIES  4.INTERNSHIPS 
 
 So lets see how much can I accomplish my goals. 
-IF YOU ARE READING WISH ME LUCK!!! 
+IF YOU ARE READING THIS
+WISH ME LUCK!!! 
  
 30 DEC 2020. 
 CODEFORCES PROFILE- https://codeforces.com/profile/cp_days
