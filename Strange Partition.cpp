@@ -40,6 +40,6 @@ int main() {
 }
 /*
 For calculating 
-MIN = (sum of in)/x + ceil(y/x)
+MIN = (sum of in)/x + ceil((sum of in)/x)
 MAX = sum of all (in/x) + sum of all ceil(in/x)
 */
