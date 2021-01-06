@@ -38,3 +38,8 @@ int main() {
                     
     return 0;
 }
+/*
+For calculating 
+MIN = (sum of in)/x + ceil(y/x)
+MAX = sum of all (in/x) + sum of all ceil(in/x)
+*/
