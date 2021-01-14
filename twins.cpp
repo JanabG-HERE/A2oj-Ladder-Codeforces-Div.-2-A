@@ -1,4 +1,4 @@
-By janab.g, contest: Codeforces Round #111 (Div. 2), problem: (A) Twins, Accepted, #, 
+//By janab.g, contest: Codeforces Round #111 (Div. 2), problem: (A) Twins, Accepted, #, 
 #include <iostream>
 #include <vector>
 #include <algorithm>
