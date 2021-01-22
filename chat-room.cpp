@@ -1,4 +1,4 @@
-By janab.g, contest: Codeforces Beta Round #54 (Div. 2), problem: (A) Chat room, Accepted,
+//By janab.g, contest: Codeforces Beta Round #54 (Div. 2), problem: (A) Chat room, Accepted,
 #include <bits/stdc++.h> 
 #include <string>
 using namespace std;
