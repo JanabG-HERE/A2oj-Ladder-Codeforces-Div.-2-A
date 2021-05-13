@@ -7,24 +7,32 @@ int main()
 
 	int n,mx,mn,min=0,max=0;
 	cin >> n;
+	int v[n];
 	for(int i=0;i<n;i++)
 	{
 		int l;
 		cin>>l;
+		v[i]=l;
 		if(i==0)
 			mn=l;
 		mn = (l <= mn)? l : mn;
 		if(l<=mn)
 			min=i;
-		mx = (l >= mx)? l : mx;
-		if(l >= mx)
+	}
+	for(int i=n-1;i>=0;i--)
+	{
+		mx = (v[i] > mx)? v[i] : mx;
+		if(v[i] >= mx)
 			max=i;
 	}
-	if(min<=n/2 and max>=n/2)
+	
+	if( min < max)
 	{
 		cout<<(((n-1)-min)+(abs(0-max)))-1;
 	}
-	else
+	
+		
+	else if(max < min)
 	{
 		cout<<((n-1)-min)+(abs(0-max));
 	}
