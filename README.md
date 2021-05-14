@@ -1,4 +1,4 @@
-# A2oj-Ladder
+# Aman Pratap
 My journey to improve my logic thinking following the directions of Love Babar to maintain Git profile and Codeforces profile. 
 My On-Campus Placements starts from July 2021 right now I am in my 5th Semester. I am pursuitng B.Tech in Information technology from Academy of Technology,Adisaptagram. 
 All kind of sevice based companies visit our college and placement record is also good but not a single product based companies come so Off-Campus is the only route to take. 
